@@ -1,0 +1,14 @@
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\bin\Debug\net8.0\BejoyComputers.exe
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\bin\Debug\net8.0\BejoyComputers.deps.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\bin\Debug\net8.0\BejoyComputers.runtimeconfig.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\bin\Debug\net8.0\BejoyComputers.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\bin\Debug\net8.0\BejoyComputers.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.AssemblyInfoInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.AssemblyInfo.cs
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.csproj.CoreCompileInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\refint\BejoyComputers.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\BejoyComputers.genruntimeconfig.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\BejoyComputers\obj\Debug\net8.0\ref\BejoyComputers.dll
