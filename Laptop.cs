@@ -12,8 +12,8 @@ namespace BejoyComputers
 
         public Laptop(string processor,int ramSize,int hardDiskSize,int graphicCard):base(processor,ramSize,hardDiskSize,graphicCard)
         {
-            // this.DisplaySize=displaySize;
-            // this.BatteryVolt=batteryVolt;
+             this.DisplaySize=displaySize;
+            this.BatteryVolt=batteryVolt;
         }
 
         public double LaptopPriceCalculation()
